@@ -1,5 +1,5 @@
 # Augmented-and-Automated-Underwriting
-A final Year Project about Augmented and Automated  Underwriting in Insurance using Machine Learning
+Augmented and Automated  Underwriting in Insurance using Machine Learning
 
 ## Project Members
 - Kyaka Herman Ceaser
